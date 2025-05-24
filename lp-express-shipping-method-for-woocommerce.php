@@ -2,7 +2,7 @@
 /**
  * Plugin Name: "LP Express" Shipping Method for WooCommerce
  * Description: "LP Express" shipping to self-service parcel terminals and/or directly to customer via courier
- * Version: 1.0.5
+ * Version: 1.0.11
  * Author: Martynas Žaliaduonis
  * Author URI: https://github.com/zefy
  * License:     GPL2
@@ -155,7 +155,7 @@ class LPExpress_Shipping_Method_For_WooCommerce {
 	 * @return void
 	 */
 	public function javascript() {
-		wp_enqueue_script('lpexpress-checkout', plugin_dir_url(LPEXPRESS_SHIPPING_METHOD_MAIN_INCLUDES_PATH ) . 'woocommerce/js/lpexpress-checkout.js', array(), null, true);
+		wp_enqueue_script('lpexpress-checkout', plugin_dir_url(LPEXPRESS_SHIPPING_METHOD_MAIN_INCLUDES_PATH ) . 'woocommerce/js/lpexpress-checkout.js?v=20201220', array(), null, true);
 	}
 }
 

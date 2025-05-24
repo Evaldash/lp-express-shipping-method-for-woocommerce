@@ -9,15 +9,16 @@ class WC_LPExpress_Terminals_Shipping_Method extends WC_Shipping_Method {
      *
      * @var string
      */
-    public $terminals_url = 'https://www.lpexpress.lt/index.php?cl=terminals&fnc=getTerminals';
+    //public $terminals_url = 'https://post.lt/post/codes/search/getPlaces';
+    //public $terminals_url = 'https://trmnl.lt/lpexpress-all.json';
+    public $terminals_url;
 
     /**
      * Terminals list array
      *
      * @var mixed
      */
-    public $terminals = false;
-
+    public $terminals = [];
 
     /**
      * Constructor for your shipping class
@@ -54,6 +55,8 @@ class WC_LPExpress_Terminals_Shipping_Method extends WC_Shipping_Method {
         );
 
         $this->field_name = apply_filters( 'wc_shipping_'. $this->id .'_terminals_field_name', 'wc_'. $this->id .'_info' );
+
+        $this->terminals_url = plugins_url( 'terminals.json', dirname( dirname( __FILE__ ) ) . '/lp-express-shipping-method-for-woocommerce.php' );
 
         $this->init();
 
@@ -141,26 +144,78 @@ class WC_LPExpress_Terminals_Shipping_Method extends WC_Shipping_Method {
             return $terminals_cache;
         }
 
-        $terminals_json  = file_get_contents( $this->terminals_url );
-        $terminals_json  = json_decode( $terminals_json );
+        /*
+        $body = http_build_query(
+            array(
+                'types[]'      => 'PostTerminal',
+                'municipality' => 0,
+                'city'         => '',
+                'street'       => '',
+                'la'           => '29.4717197',
+                'lo'           => '-98.49869609999999',
+            )
+        );
+        */
+
+        
+        $options = array('http' =>
+              array(
+                'method'  => 'GET'//,
+                  // 'method'  => 'POST',
+                  //'header'  => "Content-Type: application/x-www-form-urlencoded\r\n" .
+                  //             "Accept: */*\r\n" .
+                  //             "Accept-Encoding: gzip, deflate, br"
+                  //'content' => $body,
+              )
+        );
+
+        $stream = stream_context_create($options);
+        $terminals_json  = file_get_contents( $this->terminals_url, false, $stream );
+        $terminals_json  = json_decode( $terminals_json, true );
 
         $locations       = array();
 
-        foreach( $terminals_json as $key => $location ) {
-            if( $location->nfqactive == 1 ) {
-                $locations[$location->city][] = (object) array(
-                    'place_id'   => $location->oxid,
-                    'zipcode'    => $location->zip,
-                    'name'       => $location->name,
-                    'city'       => $location->city,
-                    'address'    => $location->address,
-                    'comment'    => $location->comment
-                );
-            }
-        }
+/*
+   "id": 101,
+   "countryCode": "LT",
+   "name": "Akropolis",
+   "city": "Vilnius",
+   "address": "Ozo g. 25",
+   "postalCode": "07150",
+   "latitude": "54.70988",
+   "longitude": 25.263523,
+   "updated": "2025-01-03 16:30:00.593",
+   "comment": "Paštomatas yra lauke"
+  */
 
-        // Save cache
-        $this->save_terminals_cache( $locations );
+        if ( !empty( $terminals_json ) ) {
+            
+            foreach ($terminals_json as $terminal) {
+                if ($terminal['countryCode'] <> 'LT') continue;
+
+                $terminal['addressDetails'] = [];
+                $terminal['addressDetails']['settlementName'] = $terminal['city'];
+                
+                $locations[$terminal['addressDetails']['settlementName']][] = (object)array(
+                    'place_id'    => $terminal['id'],
+                    'legacy_id'   => $terminal['id'],
+                    'name'        => $terminal['name'] . ' (' . $terminal['address'] . ')',
+                    'fullAddress' => $terminal['address'],
+                    'zipcode'     => $terminal['postalCode'],
+                    'city'        => $terminal['city'],
+                    'street'      => $terminal['address'],
+                    'house'       => '', //$terminal['address'],
+                    'comment'     => $terminal['comment'],
+                );
+            
+            }
+
+            // Sort by city
+            ksort($locations);
+
+            // Save cache
+            //$this->save_terminals_cache( $locations );
+        }
 
         return $locations;
     }
@@ -172,15 +227,15 @@ class WC_LPExpress_Terminals_Shipping_Method extends WC_Shipping_Method {
      */
     public function get_terminals_cache() {
         // Check if terminals are already loaded
-        if( $this->terminals !== FALSE ) {
+        if (!empty($this->terminals)) {
             return $this->terminals;
         }
 
         // Fetch transient cache
-        $terminals_transient = get_transient( $this->id . '_cache' );
+        $terminals_transient = get_transient( $this->id . '_cache_v2' );
 
         // Check if terminals transient exists
-        if ( $terminals_transient ) {
+        if ( !empty($terminals_transient) ) {
             // Return cached terminals
             return $terminals_transient;
         }
@@ -198,7 +253,7 @@ class WC_LPExpress_Terminals_Shipping_Method extends WC_Shipping_Method {
      */
     public function save_terminals_cache( $terminals ) {
         // Save terminals to "cache" for 24 hours
-        set_transient( $this->id . '_cache', $terminals, 86400 );
+        set_transient( $this->id . '_cache_v2', $terminals, 15 /* 86400 */ );
     }
 
     /**
@@ -398,7 +453,7 @@ class WC_LPExpress_Terminals_Shipping_Method extends WC_Shipping_Method {
 
         foreach( $terminals as $terminal_group ) {
             foreach( $terminal_group as $terminal ) {
-                if ( intval( $terminal->place_id ) === intval( $place_id ) ) {
+                if ( intval( $terminal->place_id ) === intval( $place_id ) ||  intval( $terminal->legacy_id ) === intval( $place_id )) {
                     return $terminal;
                 }
             }

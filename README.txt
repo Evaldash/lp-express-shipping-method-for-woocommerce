@@ -2,8 +2,8 @@
 Contributors: zefy
 Tags: Lietuvos pastas, LP EXPRESS, lpexpress, shipping method, parcel terminal, WooCommerce, pastomatai
 Requires at least: 4.4
-Tested up to: 5.4
-Stable tag: 1.0.5
+Tested up to: 5.7
+Stable tag: 1.0.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,25 @@ https://github.com/zefy/lp-express-shipping-method-for-woocommerce
 2. Checkout page with terminals list opened.
 
 == Changelog ==
+
+= 1.0.11 =
+* Change cache key to invalidate old data
+
+= 1.0.10 =
+* Added support for old terminals IDs
+
+= 1.0.9 =
+* Return of missing cache feature
+
+= 1.0.8 =
+* Improved API fetching
+
+= 1.0.7 =
+* Updated post.lt API
+
+= 1.0.6 =
+* Changed terminal selection style
+* Lithuanian language fix
 
 = 1.0.5 =
 * Fixed compatibility issues with new WooCommerce version (>= 4.0)

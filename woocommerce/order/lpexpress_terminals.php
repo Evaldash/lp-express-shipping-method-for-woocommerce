@@ -7,7 +7,7 @@
 
 		<tr>
 			<th><?php _e( 'Address', 'lp-express-shipping-method-for-woocommerce' ); ?>:</th>
-            <td><?php echo $name; ?>, <?php echo $address; ?>, <?php echo $zipcode; ?> <?php echo $city; ?></td>
+            <td><?php echo $name; ?> (<?php echo $fullAddress; ?>)</td>
 		</tr>
         <tr>
             <th><?php _e( 'Comment', 'lp-express-shipping-method-for-woocommerce' ); ?>:</th>
