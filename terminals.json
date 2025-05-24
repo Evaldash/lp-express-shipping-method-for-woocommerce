@@ -4,12 +4,12 @@
     "countryCode": "LT",
     "name": "Saurida degalinė",
     "city": "Vilnius",
-    "address": "Buivydiškių g.1a",
-    "postalCode": " Zujūnai",
-    "latitude": "14160",
-    "longitude": "54.7243",
+    "address": "Buivydiškių g.1a, Zujūnai",
+    "postalCode": "14160",
+    "latitude": "54.7243",
+    "longitude": "25.1907",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:00.565"
+    "comment": "Paštomatas yra prie degalinės Saurida."
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "city": "Vilnius",
     "address": "Architektų g. 214",
     "postalCode": "04215",
-    "latitude": "54.679",
+    "latitude": "54.6790",
     "longitude": "25.2173",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas prie šoninės sienos"
@@ -43,7 +43,7 @@
     "address": "Mokyklos g.3",
     "postalCode": "14242",
     "latitude": "54.8705",
-    "longitude": "25.065",
+    "longitude": "25.0650",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra prie šoninės parduotuvės sienos. Šalia taromato."
   },
@@ -81,7 +81,7 @@
     "latitude": "54.70988",
     "longitude": "25.263523",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie 4-ojo prekybos centro įėjimo"
   },
   {
     "id": 102,
@@ -93,7 +93,7 @@
     "latitude": "54.727675",
     "longitude": "25.238565",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie galinio prekybos centro įėjimo, iš J. Baltrušaičio g. pusės."
   },
   {
     "id": 103,
@@ -105,7 +105,7 @@
     "latitude": "54.65219",
     "longitude": "25.30526",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prekybos centro dešinėje pusėje, matomas iš Minsko plento."
   },
   {
     "id": 104,
@@ -117,7 +117,7 @@
     "latitude": "54.709834",
     "longitude": "25.301959",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro, kairėje pusėje."
   },
   {
     "id": 105,
@@ -153,7 +153,7 @@
     "latitude": "54.623909",
     "longitude": "25.109619",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Galvės g."
   },
   {
     "id": 108,
@@ -165,7 +165,7 @@
     "latitude": "54.699238",
     "longitude": "25.258322",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi -2 prekybos centro aukšte"
+    "comment": "Paštomatas stovi -2 prekybos centro aukšte, prie automobilių stovėjimo aikštelės."
   },
   {
     "id": 111,
@@ -177,7 +177,7 @@
     "latitude": "54.697373",
     "longitude": "25.299295",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Žirmūnų g."
   },
   {
     "id": 112,
@@ -189,7 +189,19 @@
     "latitude": "54.686609",
     "longitude": "25.259489",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš A. Goštauto gatvės pusės."
+  },
+  {
+    "id": 113,
+    "countryCode": "LT",
+    "name": "LIDL",
+    "city": "Vilnius",
+    "address": "Žemaitės g. 16",
+    "postalCode": "03201",
+    "latitude": "54.67289",
+    "longitude": "25.25560",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "Paštomatas yra lauke, matomas nuo prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 114,
@@ -201,7 +213,7 @@
     "latitude": "54.709463",
     "longitude": "25.18811",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, kairėje prekybos centro įėjimo pusėje, matomas iš Pilaitės pr."
   },
   {
     "id": 115,
@@ -213,7 +225,7 @@
     "latitude": "54.740122",
     "longitude": "25.228669",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Ukmergės g."
   },
   {
     "id": 116,
@@ -225,7 +237,7 @@
     "latitude": "54.672706",
     "longitude": "25.274041",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Kauno g."
   },
   {
     "id": 117,
@@ -237,7 +249,7 @@
     "latitude": "54.703042",
     "longitude": "25.285844",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,matomas nuo prekybos centro automobilių stovėjimo aištelės."
   },
   {
     "id": 119,
@@ -249,7 +261,7 @@
     "latitude": "54.669262",
     "longitude": "25.259367",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, dešinėje prekybos centro įėjimo pusėje."
   },
   {
     "id": 120,
@@ -261,7 +273,7 @@
     "latitude": "54.662915",
     "longitude": "25.343329",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 121,
@@ -273,7 +285,7 @@
     "latitude": "54.722158",
     "longitude": "25.244963",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Fabijoniškių g."
   },
   {
     "id": 122,
@@ -285,7 +297,7 @@
     "latitude": "54.704288",
     "longitude": "25.282638",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Žalgirio g."
   },
   {
     "id": 123,
@@ -297,7 +309,7 @@
     "latitude": "54.673866",
     "longitude": "25.213598",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Architektų g. pusės."
   },
   {
     "id": 124,
@@ -309,7 +321,7 @@
     "latitude": "54.716192",
     "longitude": "25.277489",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke prie pastato sienos"
+    "comment": "Paštomatas yra lauke prie pastato sienos, šalia didelės automobilių aikštelės."
   },
   {
     "id": 125,
@@ -321,7 +333,7 @@
     "latitude": "54.754545",
     "longitude": "25.261971",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Bajorų kelio g."
   },
   {
     "id": 126,
@@ -333,7 +345,7 @@
     "latitude": "54.723811",
     "longitude": "25.319017",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Nemenčinės pl."
   },
   {
     "id": 127,
@@ -345,7 +357,7 @@
     "latitude": "54.674507",
     "longitude": "25.201412",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Erfurto g."
   },
   {
     "id": 128,
@@ -381,7 +393,7 @@
     "latitude": "54.681623",
     "longitude": "25.413954",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Pergalės g."
   },
   {
     "id": 131,
@@ -393,7 +405,7 @@
     "latitude": "54.729011",
     "longitude": "25.216651",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių stovėjimo aištelės."
   },
   {
     "id": 132,
@@ -405,7 +417,7 @@
     "latitude": "54.680985",
     "longitude": "25.312025",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prekybos centro įėjimo kairėje pusėje."
   },
   {
     "id": 133,
@@ -417,7 +429,7 @@
     "latitude": "54.718099",
     "longitude": "25.300493",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Kareivių g."
   },
   {
     "id": 134,
@@ -429,7 +441,7 @@
     "latitude": "54.778781",
     "longitude": "25.341272",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Žaliųjų Ežerų g."
   },
   {
     "id": 135,
@@ -441,7 +453,7 @@
     "latitude": "54.690141",
     "longitude": "25.211428",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš L. Asanavičiūtės g."
   },
   {
     "id": 136,
@@ -453,7 +465,7 @@
     "latitude": "54.693839",
     "longitude": "25.276815",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra 3-iame aukšte"
+    "comment": "Paštomatas yra 3-iame aukšte, lauke, šalia automobilių stovėjimo aikštelės."
   },
   {
     "id": 137,
@@ -465,7 +477,7 @@
     "latitude": "54.71533",
     "longitude": "25.316574",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Antakalnio g."
   },
   {
     "id": 138,
@@ -477,19 +489,19 @@
     "latitude": "54.677542",
     "longitude": "25.27191",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra antrame aukšte"
+    "comment": "Paštomatas yra antrame aukšte, automobilių parkavimo zonoje."
   },
   {
     "id": 139,
     "countryCode": "LT",
     "name": "Lidl",
     "city": "Vilnius",
-    "address": "Liepkalnio g.102 A",
-    "postalCode": " Vilnius",
-    "latitude": "2121",
-    "longitude": "54.654848",
+    "address": "Liepkalnio g.102 A, Vilnius ",
+    "postalCode": "2121",
+    "latitude": "54.654848",
+    "longitude": "25.304637",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:00.728"
+    "comment": "Paštomatas yra prie įėjimo į LIDL parduotuvę iš parkingo pusės"
   },
   {
     "id": 140,
@@ -501,7 +513,7 @@
     "latitude": "54.688201",
     "longitude": "25.421666",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro įėjimo."
   },
   {
     "id": 141,
@@ -525,7 +537,7 @@
     "latitude": "54.70137",
     "longitude": "25.17876",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Gilužio g. pusės"
   },
   {
     "id": 143,
@@ -537,7 +549,7 @@
     "latitude": "54.731942",
     "longitude": "25.246722",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, automobilių stovėjimo aikštelėje, matomas iš Ateities g."
   },
   {
     "id": 144,
@@ -549,7 +561,7 @@
     "latitude": "54.735816",
     "longitude": "25.224065",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Gabijos g."
   },
   {
     "id": 145,
@@ -561,7 +573,7 @@
     "latitude": "54.679563",
     "longitude": "25.25857",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Savanorių pr."
   },
   {
     "id": 146,
@@ -573,7 +585,7 @@
     "latitude": "54.728696",
     "longitude": "25.269773",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Didlaukio g."
   },
   {
     "id": 147,
@@ -585,7 +597,7 @@
     "latitude": "54.67565",
     "longitude": "25.25694",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, pirmame prekybos centro aukšte. Prie pagrindinio įėjimo."
   },
   {
     "id": 148,
@@ -597,7 +609,7 @@
     "latitude": "54.674055",
     "longitude": "25.248067",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Savanorių pr."
   },
   {
     "id": 149,
@@ -609,7 +621,7 @@
     "latitude": "54.74293",
     "longitude": "25.276518",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Jeruzalės g."
   },
   {
     "id": 150,
@@ -618,22 +630,10 @@
     "city": "Vilnius",
     "address": "Polocko g.42a",
     "postalCode": "01205",
-    "latitude": "54.6824",
+    "latitude": " 54.6824",
     "longitude": "25.3092",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas prie šoninės parduotuvės sienos"
-  },
-  {
-    "id": 151,
-    "countryCode": "LT",
-    "name": "Maxima X",
-    "city": "Vilnius",
-    "address": "Medeinos g. 39",
-    "postalCode": "06138",
-    "latitude": "54.727932",
-    "longitude": "25.22082",
-    "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
   },
   {
     "id": 152,
@@ -645,7 +645,7 @@
     "latitude": "54.74025",
     "longitude": "25.225274",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Ukmergės g."
   },
   {
     "id": 153,
@@ -657,7 +657,7 @@
     "latitude": "54.734713",
     "longitude": "25.339074",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Nemenčinės pl."
   },
   {
     "id": 154,
@@ -669,7 +669,7 @@
     "latitude": "54.653869",
     "longitude": "25.270234",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Dariaus ir Girėno g."
   },
   {
     "id": 155,
@@ -681,7 +681,7 @@
     "latitude": "54.718947",
     "longitude": "25.212217",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Rygos g."
   },
   {
     "id": 156,
@@ -693,7 +693,7 @@
     "latitude": "54.707196",
     "longitude": "25.187515",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Vydūno g."
   },
   {
     "id": 157,
@@ -717,7 +717,7 @@
     "latitude": "54.715015",
     "longitude": "25.245527",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Šeškinės g."
   },
   {
     "id": 159,
@@ -729,7 +729,7 @@
     "latitude": "54.712751",
     "longitude": "25.300704",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš J. Kubiliaus g."
   },
   {
     "id": 160,
@@ -741,7 +741,7 @@
     "latitude": "54.692949",
     "longitude": "25.220924",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie įėjimo į prekybos centrą"
   },
   {
     "id": 161,
@@ -753,7 +753,7 @@
     "latitude": "54.686979",
     "longitude": "25.281569",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatą rasite viduje"
+    "comment": "Paštomatą rasite viduje, įėjus pro pagrindinį įėjimą ir nusileidę į -2 aukštą."
   },
   {
     "id": 162,
@@ -765,7 +765,7 @@
     "latitude": "54.696932",
     "longitude": "25.255789",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie PIGU.LT parduotuvės, matomas iš Saltoniškių gatvės."
   },
   {
     "id": 163,
@@ -777,7 +777,7 @@
     "latitude": "54.680897",
     "longitude": "25.283554",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, Unipark stovėjimo aikštelėje, matomas iš Dominikonų g."
   },
   {
     "id": 164,
@@ -789,7 +789,7 @@
     "latitude": "54.725243",
     "longitude": "25.342348",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie prekybos centro galinės sienos."
   },
   {
     "id": 165,
@@ -801,7 +801,7 @@
     "latitude": "54.700615",
     "longitude": "25.410053",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke prie PC RIMI "
+    "comment": "Paštomatas yra lauke prie PC RIMI, matomas iš Šiaurė g.  pusės"
   },
   {
     "id": 166,
@@ -849,7 +849,7 @@
     "latitude": "54.77736",
     "longitude": "25.19205",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie prekybos šoninės sienos."
   },
   {
     "id": 170,
@@ -861,7 +861,7 @@
     "latitude": "54.756978",
     "longitude": "25.277948",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Santaros g. pusės"
   },
   {
     "id": 171,
@@ -873,7 +873,7 @@
     "latitude": "54.800706",
     "longitude": "25.348568",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro pastato šoninės sienos."
   },
   {
     "id": 172,
@@ -885,7 +885,7 @@
     "latitude": "54.735449",
     "longitude": "25.217641",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Gileikių g. pusės."
   },
   {
     "id": 173,
@@ -894,10 +894,10 @@
     "city": "Vilnius",
     "address": "P.Žvirkos g. 1",
     "postalCode": "02210",
-    "latitude": "54.658286",
-    "longitude": "25.154052",
+    "latitude": "54.60565",
+    "longitude": "25.26221",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,prie prekybos centro šoninės sienos."
   },
   {
     "id": 174,
@@ -909,7 +909,7 @@
     "latitude": "54.660971",
     "longitude": "25.27617",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, matomas nuo prekybos centros automobilių stovėjimo aikštelės."
   },
   {
     "id": 175,
@@ -945,7 +945,7 @@
     "latitude": "54.673489",
     "longitude": "25.295791",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 178,
@@ -955,7 +955,7 @@
     "address": "Sausio 13-osios g. 3",
     "postalCode": "04343",
     "latitude": "54.69324",
-    "longitude": "25.2188",
+    "longitude": "25.21880",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra prekybos centro požeminėje automobilių stovėjimo aikštelėje."
   },
@@ -988,12 +988,12 @@
     "countryCode": "LT",
     "name": "Norfa ",
     "city": "Vilnius",
-    "address": "Mokyklos g.2C",
-    "postalCode": " Galgiai",
-    "latitude": "13104",
-    "longitude": "54.712",
+    "address": "Mokyklos g.2C, Galgiai",
+    "postalCode": "13104",
+    "latitude": "54.7120",
+    "longitude": "25.4121",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:00.901"
+    "comment": "Paštomatas yra prie pc Norfa"
   },
   {
     "id": 182,
@@ -1077,7 +1077,7 @@
     "latitude": "54.65048",
     "longitude": "25.324844",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prie įėjimo į prekybos centrą."
   },
   {
     "id": 189,
@@ -1137,7 +1137,7 @@
     "latitude": "54.670633",
     "longitude": "25.289441",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke prie perkybos centro sienos"
+    "comment": "Paštomatas stovi lauke prie perkybos centro sienos, matomas iš Pelesos g. pusės."
   },
   {
     "id": 194,
@@ -1233,7 +1233,7 @@
     "latitude": "54.915855",
     "longitude": "23.937761",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie galinio prekybos centro įėjimo, matomas iš galinės automobilių stovėjimo aikštelės."
   },
   {
     "id": 204,
@@ -1245,7 +1245,7 @@
     "latitude": "54.91998",
     "longitude": "23.82545",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš Raudondvario pl. pusės."
   },
   {
     "id": 205,
@@ -1257,7 +1257,7 @@
     "latitude": "54.939388",
     "longitude": "23.889033",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro pagrindinio (RIMI) įėjimo."
   },
   {
     "id": 207,
@@ -1269,7 +1269,7 @@
     "latitude": "54.911727",
     "longitude": "23.982351",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro. Matomas nuo Draugystės gatvės."
   },
   {
     "id": 208,
@@ -1281,7 +1281,7 @@
     "latitude": "54.878781",
     "longitude": "23.932774",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 210,
@@ -1305,7 +1305,7 @@
     "latitude": "54.908024",
     "longitude": "23.929138",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš K. Petrausko g."
   },
   {
     "id": 212,
@@ -1317,7 +1317,7 @@
     "latitude": "54.930144",
     "longitude": "23.943391",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš K. Škirpos g."
   },
   {
     "id": 213,
@@ -1329,7 +1329,7 @@
     "latitude": "54.901078",
     "longitude": "23.891455",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Neries upės pusės"
   },
   {
     "id": 214,
@@ -1341,7 +1341,7 @@
     "latitude": "54.908862",
     "longitude": "23.865671",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Raudondvario pl."
   },
   {
     "id": 215,
@@ -1353,7 +1353,7 @@
     "latitude": "54.924367",
     "longitude": "23.981633",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš V. Krėvės pr."
   },
   {
     "id": 216,
@@ -1365,7 +1365,7 @@
     "latitude": "54.914963",
     "longitude": "23.962239",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prekybos centro įėjimo dešinėje pusėje."
   },
   {
     "id": 217,
@@ -1377,7 +1377,7 @@
     "latitude": "54.93007",
     "longitude": "23.89739",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Rasytės g."
   },
   {
     "id": 218,
@@ -1389,7 +1389,7 @@
     "latitude": "54.898971",
     "longitude": "23.963608",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš K. Baršausko g."
   },
   {
     "id": 219,
@@ -1401,7 +1401,7 @@
     "latitude": "54.916321",
     "longitude": "23.863576",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Baltų pr."
   },
   {
     "id": 220,
@@ -1413,7 +1413,7 @@
     "latitude": "54.906075",
     "longitude": "23.974789",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Kovo 11-osios g."
   },
   {
     "id": 221,
@@ -1425,7 +1425,7 @@
     "latitude": "54.929447",
     "longitude": "23.926754",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Sukilėlių pr."
   },
   {
     "id": 222,
@@ -1437,7 +1437,7 @@
     "latitude": "54.911796",
     "longitude": "23.947242",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Taikos pr."
   },
   {
     "id": 223,
@@ -1449,7 +1449,7 @@
     "latitude": "54.866074",
     "longitude": "23.947158",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Juozapavičiaus pr."
   },
   {
     "id": 224,
@@ -1461,7 +1461,7 @@
     "latitude": "54.918952",
     "longitude": "23.950277",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių aikštelės."
   },
   {
     "id": 225,
@@ -1470,10 +1470,10 @@
     "city": "Kaunas",
     "address": "K. Donelaičio g. 44a",
     "postalCode": "44241",
-    "latitude": "54.89896776",
+    "latitude": "54.898967760",
     "longitude": "23.918991326",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Bažnyčios g. pusės."
   },
   {
     "id": 226,
@@ -1485,7 +1485,7 @@
     "latitude": "54.892347",
     "longitude": "24.004377",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš R. Kalantos g."
   },
   {
     "id": 227,
@@ -1497,19 +1497,19 @@
     "latitude": "54.854678",
     "longitude": "24.013443",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie PC IKI"
   },
   {
     "id": 228,
     "countryCode": "LT",
     "name": "Express Market",
     "city": "Kaunas",
-    "address": "Pilėnų g. 1",
-    "postalCode": " Akademija",
-    "latitude": "53347",
-    "longitude": "54.896007",
+    "address": "Pilėnų g. 1, Akademija ",
+    "postalCode": "53347",
+    "latitude": "54.896007",
+    "longitude": "23.823147",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.264"
+    "comment": "Paštomatas yra lauke, matomas iš Pilėnų g."
   },
   {
     "id": 229,
@@ -1521,7 +1521,7 @@
     "latitude": "54.914602",
     "longitude": "24.063212",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Marių g."
   },
   {
     "id": 230,
@@ -1540,12 +1540,12 @@
     "countryCode": "LT",
     "name": "Maxima X",
     "city": "Kaunas",
-    "address": "Vandžiogalos pl. 106A",
-    "postalCode": " Domeikava",
-    "latitude": "54358",
-    "longitude": "54.953319",
+    "address": "Vandžiogalos pl. 106A, Domeikava ",
+    "postalCode": "54358",
+    "latitude": "54.953319",
+    "longitude": "23.898054",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.3"
+    "comment": "Paštomatas yra lauke, prie Maxima parduotuvės."
   },
   {
     "id": 232,
@@ -1557,7 +1557,7 @@
     "latitude": "54.915901",
     "longitude": "23.901459",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro RIMI"
   },
   {
     "id": 233,
@@ -1569,7 +1569,7 @@
     "latitude": "54.921706",
     "longitude": "23.963338",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie PC SAVAS, matomas iš Partizanų g. pusės"
   },
   {
     "id": 234,
@@ -1581,7 +1581,7 @@
     "latitude": "54.869355",
     "longitude": "23.887494",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, matomas nuo prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 235,
@@ -1590,10 +1590,10 @@
     "city": "Kaunas",
     "address": "Lubinų g. 155",
     "postalCode": "47222",
-    "latitude": "54.94542",
+    "latitude": "54.945420",
     "longitude": "23.828236",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro Šilas"
   },
   {
     "id": 236,
@@ -1603,9 +1603,9 @@
     "address": "Pašilės g. 108 ",
     "postalCode": "51313",
     "latitude": "54.909389",
-    "longitude": "23.96517",
+    "longitude": "23.965170",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Pašilės g. pusės"
   },
   {
     "id": 237,
@@ -1624,12 +1624,12 @@
     "countryCode": "LT",
     "name": "B and B Hotel",
     "city": "Karmėlava",
-    "address": "Vilniaus g. 52A",
-    "postalCode": " Karmėlava",
-    "latitude": "54459",
-    "longitude": "54.972227",
+    "address": "Vilniaus g. 52A, Karmėlava",
+    "postalCode": "54459",
+    "latitude": "54.972227",
+    "longitude": "24.0692",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.349"
+    "comment": "Paštomatas yra lauke prie įvažiavimo į mašinų stovėjimo aikštelę."
   },
   {
     "id": 239,
@@ -1641,7 +1641,7 @@
     "latitude": "54.890142",
     "longitude": "23.853656",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 240,
@@ -1650,7 +1650,7 @@
     "city": "Kaunas",
     "address": "Europos pr. 43",
     "postalCode": "46329",
-    "latitude": "54.87602",
+    "latitude": "54.876020",
     "longitude": "23.912428",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra lauke prie prekybos centro šoninės sienos."
@@ -1677,7 +1677,7 @@
     "latitude": "54.916087",
     "longitude": "23.986894",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra Urmo prekybos bazės aikštelėje"
+    "comment": "Paštomatas yra Urmo prekybos bazės aikštelėje, netoli Mileniumo pastato."
   },
   {
     "id": 243,
@@ -1689,7 +1689,7 @@
     "latitude": "54.938784",
     "longitude": "23.777461",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie prekybos centro pastato šoninės sienos."
   },
   {
     "id": 244,
@@ -1713,7 +1713,7 @@
     "latitude": "54.929457",
     "longitude": "23.969267",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas nuo Šiaurės pr."
   },
   {
     "id": 247,
@@ -1821,7 +1821,7 @@
     "latitude": "54.92054",
     "longitude": "23.87958",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš Baltijos g. pusės"
   },
   {
     "id": 257,
@@ -1905,7 +1905,7 @@
     "latitude": "55.694017",
     "longitude": "21.155806",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie Naujojo įėjimo."
   },
   {
     "id": 302,
@@ -1917,7 +1917,7 @@
     "latitude": "55.7283",
     "longitude": "21.1244",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra prie IKI įėjimo"
+    "comment": "Paštomatas yra prie IKI įėjimo, šalia taromato."
   },
   {
     "id": 303,
@@ -1929,7 +1929,7 @@
     "latitude": "55.692623",
     "longitude": "21.182081",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke prie prekybos centro įėjimo"
+    "comment": "Paštomatas yra lauke prie prekybos centro įėjimo, matomas iš Vilniaus pl."
   },
   {
     "id": 304,
@@ -1941,7 +1941,7 @@
     "latitude": "55.66424",
     "longitude": "21.177051",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas nuo Varpų g. ir Liubeko g. pusės"
   },
   {
     "id": 307,
@@ -1953,7 +1953,7 @@
     "latitude": "55.714443",
     "longitude": "21.129341",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, skvere, matomas iš H. Manto g."
   },
   {
     "id": 308,
@@ -1965,19 +1965,19 @@
     "latitude": "55.671888",
     "longitude": "21.17108",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Taikos pr."
   },
   {
     "id": 309,
     "countryCode": "LT",
-    "name": "IKI Tauralaukis",
+    "name": "Rimi",
     "city": "Klaipėda",
-    "address": "Liepojos g. 238",
-    "postalCode": "92330",
-    "latitude": "55.753176",
-    "longitude": "21.131938",
+    "address": "Liepojos g. 27",
+    "postalCode": "92331",
+    "latitude": "55.75135",
+    "longitude": "21.12998",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Kretingos g."
   },
   {
     "id": 311,
@@ -1989,7 +1989,7 @@
     "latitude": "55.669429",
     "longitude": "21.193021",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Vingio g.pusės"
   },
   {
     "id": 312,
@@ -2001,7 +2001,7 @@
     "latitude": "55.66367",
     "longitude": "21.19983",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Mogiliovo g. pusės."
   },
   {
     "id": 313,
@@ -2013,31 +2013,31 @@
     "latitude": "55.722442",
     "longitude": "21.155731",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie Jysk parduotuvės lauko baldų prekybos vietos."
   },
   {
     "id": 314,
     "countryCode": "LT",
     "name": "Rimi Slengiai",
     "city": "Klaipėda",
-    "address": "Dangaus g. 34",
-    "postalCode": " Slengiai",
-    "latitude": "92343",
-    "longitude": "55.736839",
+    "address": "Dangaus g. 34, Slengiai ",
+    "postalCode": "92343",
+    "latitude": "55.736839",
+    "longitude": "21.191818",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.509"
+    "comment": "Paštomatas yra lauke . Prie prekybos centro šoninės sienos."
   },
   {
     "id": 316,
     "countryCode": "LT",
     "name": "Rimi Dercekliai",
     "city": "Klaipėda",
-    "address": "Nidos g. 1",
-    "postalCode": " Dercekliai",
-    "latitude": "96383",
-    "longitude": "55.578416",
+    "address": "Nidos g. 1, Dercekliai",
+    "postalCode": "96383",
+    "latitude": "55.578416",
+    "longitude": "21.270966",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.511"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 317,
@@ -2046,7 +2046,7 @@
     "city": "Klaipėda",
     "address": "Taikos pr.39",
     "postalCode": "91150",
-    "latitude": "55.698",
+    "latitude": "55.6980",
     "longitude": "21.1465",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra prie Technoramos"
@@ -2073,7 +2073,7 @@
     "latitude": "55.704179",
     "longitude": "21.158502",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, matomas iš Tilžės g. pusės"
   },
   {
     "id": 320,
@@ -2140,24 +2140,24 @@
     "countryCode": "LT",
     "name": "Maxima",
     "city": "Nida",
-    "address": "Naglių g.29A",
-    "postalCode": " Nida",
-    "latitude": "93123",
-    "longitude": "55.3044",
+    "address": "Naglių g.29A, Nida",
+    "postalCode": "93123",
+    "latitude": "55.30440",
+    "longitude": "21.00529",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.536"
+    "comment": "Paštomatas stovi lauke prie parduotuvės Maxima"
   },
   {
     "id": 326,
     "countryCode": "LT",
     "name": "Maxima",
     "city": "Ginduliai",
-    "address": "Žalioji g. 36",
-    "postalCode": " Gindulių k.",
-    "latitude": " Klaipėdos r.",
-    "longitude": "91276",
+    "address": "Žalioji g. 36, Gindulių k., Klaipėdos r. ",
+    "postalCode": "91276",
+    "latitude": "55.7310",
+    "longitude": "21.18650",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "21.18650"
+    "comment": "Paštomatas yra šalia taromato"
   },
   {
     "id": 327,
@@ -2181,7 +2181,7 @@
     "latitude": "55.906864",
     "longitude": "23.260798",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie įvažiavimo į vidinę automobilių stovėjimo aikštelę."
   },
   {
     "id": 402,
@@ -2193,7 +2193,7 @@
     "latitude": "55.95333",
     "longitude": "23.35621",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,prie prekybos centro šoninės sienos."
   },
   {
     "id": 404,
@@ -2205,7 +2205,7 @@
     "latitude": "55.927655",
     "longitude": "23.306816",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie pagrindinio įėjimo, matomas iš Tilžės g. pusės."
   },
   {
     "id": 405,
@@ -2217,7 +2217,7 @@
     "latitude": "55.914001",
     "longitude": "23.272493",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Gardino g."
   },
   {
     "id": 406,
@@ -2246,14 +2246,14 @@
   {
     "id": 408,
     "countryCode": "LT",
-    "name": "Tau",
+    "name": "Tau, PC ",
     "city": "Šiauliai",
     "address": "Birutės g. 37",
     "postalCode": "76215",
-    "latitude": 55.947706,
+    "latitude": "55.947706",
     "longitude": "23.297247",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": ""
+    "comment": "Paštomatas yra lauke, prie įėjimo į prekybos centrą."
   },
   {
     "id": 409,
@@ -2318,14 +2318,14 @@
   {
     "id": 414,
     "countryCode": "LT",
-    "name": " Norfa",
+    "name": "Norfa",
     "city": "Šiauliai",
-    "address": "Vilties g. 1",
-    "postalCode": " Dainų k.",
-    "latitude": "77209",
-    "longitude": "55.91961",
+    "address": "Vilties g. 1, Dainų k.",
+    "postalCode": "77209",
+    "latitude": "55.91961",
+    "longitude": "23.25517",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:01.577"
+    "comment": "Paštomatas stovi lauke prie įėjimo į prekybos centrą."
   },
   {
     "id": 415,
@@ -2349,7 +2349,7 @@
     "latitude": "55.728259",
     "longitude": "24.342377",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie parduotuvės šoninės sienos, matomas iš Klaipėdos g. pusės."
   },
   {
     "id": 502,
@@ -2361,7 +2361,7 @@
     "latitude": "55.736981",
     "longitude": "24.356207",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie parduotuvės prie įėjimo į Casino"
   },
   {
     "id": 503,
@@ -2373,7 +2373,7 @@
     "latitude": "55.727546",
     "longitude": "24.365775",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro, matomas nuo autobusų stoties."
   },
   {
     "id": 504,
@@ -2385,7 +2385,7 @@
     "latitude": "55.730017",
     "longitude": "24.309013",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro, matomas nuo Klaipėdos g."
   },
   {
     "id": 505,
@@ -2397,19 +2397,19 @@
     "latitude": "55.744832",
     "longitude": "24.371174",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos. Matomas nuo Smėlynės g."
   },
   {
     "id": 506,
     "countryCode": "LT",
-    "name": "Vasaris PC",
+    "name": "Vasaris, PC",
     "city": "Panevėžys",
     "address": "Aukštaičių g. 88",
     "postalCode": "36115",
-    "latitude": 55.72578,
+    "latitude": "55.72578",
     "longitude": "24.384239",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": ""
+    "comment": "Paštomatas yra lauke, prie prekybos centro pastato šoninės sienos, matomas nuo Aukštaičių g. pusės"
   },
   {
     "id": 507,
@@ -2433,7 +2433,7 @@
     "latitude": "55.731165",
     "longitude": "24.340913",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas randasi lauke"
+    "comment": "Paštomatas randasi lauke, matomas iš Nemuno g. pusės"
   },
   {
     "id": 509,
@@ -2442,7 +2442,7 @@
     "city": "Panevėžys",
     "address": "Molainių g. 11",
     "postalCode": "37162",
-    "latitude": "55.7218",
+    "latitude": "55.72180",
     "longitude": "24.33097",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie prekybos centro šoninės sienos."
@@ -2457,7 +2457,7 @@
     "latitude": "55.73139",
     "longitude": "24.348249",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke prie prekybos centro šoninės sienos"
+    "comment": "Paštomatas stovi lauke prie prekybos centro šoninės sienos,matomas iš Vasario 16-osios g. pusės."
   },
   {
     "id": 511,
@@ -2493,7 +2493,7 @@
     "latitude": "54.559851",
     "longitude": "23.354595",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, perkeltas tuo pačiu adresu tik prie kitos Maxima pastato pusės (matomas iš Dariaus ir Girėno g. pusės)"
   },
   {
     "id": 603,
@@ -2505,7 +2505,7 @@
     "latitude": "54.56739",
     "longitude": "23.365693",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Sporto gatvės."
   },
   {
     "id": 604,
@@ -2517,7 +2517,7 @@
     "latitude": "54.556183",
     "longitude": "23.346373",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Laisvės g."
   },
   {
     "id": 605,
@@ -2529,7 +2529,7 @@
     "latitude": "54.414545",
     "longitude": "23.227662",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke prie Lietuvos pašto pastato šoninės sienos"
+    "comment": "Paštomatas yra lauke prie Lietuvos pašto pastato šoninės sienos, matomas iš Laisvės g.ir S. Dariaus ir S.Girėno g. pusių."
   },
   {
     "id": 606,
@@ -2541,7 +2541,7 @@
     "latitude": "54.752663",
     "longitude": "23.49175",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie pašto pastato pagrindinio įėjimo."
   },
   {
     "id": 607,
@@ -2550,10 +2550,10 @@
     "city": "Marijampolė",
     "address": "Palangos g. 22",
     "postalCode": "68188",
-    "latitude": "54.56724",
+    "latitude": "54.567240",
     "longitude": "23.348778",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos.Matomas nuo prekybos centro automobilių aukštelės."
   },
   {
     "id": 608,
@@ -2565,7 +2565,7 @@
     "latitude": "54.556405",
     "longitude": "23.355845",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 609,
@@ -2589,7 +2589,7 @@
     "latitude": "54.399311",
     "longitude": "24.023676",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 703,
@@ -2601,7 +2601,7 @@
     "latitude": "54.391281",
     "longitude": "24.021915",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Likiškėlių g. pusės"
   },
   {
     "id": 704,
@@ -2673,7 +2673,7 @@
     "latitude": "55.256225",
     "longitude": "22.293902",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, matomas nuo Gedimino g. ir Kovo 11 -osios g. pusių."
   },
   {
     "id": 802,
@@ -2697,7 +2697,7 @@
     "latitude": "55.267707",
     "longitude": "22.287623",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 804,
@@ -2706,7 +2706,7 @@
     "city": "Tauragė",
     "address": "Šlaito g. 1",
     "postalCode": "72112",
-    "latitude": "55.2487",
+    "latitude": "55.24870",
     "longitude": "22.27062",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie prekybos centro lauko sienos."
@@ -2733,7 +2733,7 @@
     "latitude": "56.30445",
     "longitude": "22.34881",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,matomas nuo prekybos centro automobilių aikštelės."
   },
   {
     "id": 903,
@@ -2754,7 +2754,7 @@
     "city": "Mažeikiai",
     "address": "Sedos g. 53",
     "postalCode": "89191",
-    "latitude": "56.2995",
+    "latitude": "56.29950",
     "longitude": "22.34029",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie įėjimo į prekybos centrą."
@@ -2769,7 +2769,7 @@
     "latitude": "56.23286",
     "longitude": "22.515685",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prei prekybos centro sienos."
   },
   {
     "id": 906,
@@ -2778,8 +2778,8 @@
     "city": "Mažeikiai",
     "address": "Mažeikių 100-mečio g. 2",
     "postalCode": "89229",
-    "latitude": "55.32442",
-    "longitude": "22.33163",
+    "latitude": "56.324485",
+    "longitude": "22.3315354",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie parduotuvės fasadinės sienos."
   },
@@ -2793,7 +2793,7 @@
     "latitude": "55.073169",
     "longitude": "24.258671",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie įėjimo."
   },
   {
     "id": 1002,
@@ -2853,7 +2853,7 @@
     "latitude": "55.502207",
     "longitude": "25.617775",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 1102,
@@ -2865,7 +2865,7 @@
     "latitude": "55.498009",
     "longitude": "25.596979",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Donelaičio g. pusės"
   },
   {
     "id": 1103,
@@ -2875,7 +2875,7 @@
     "address": "Taikos g. 2 ",
     "postalCode": "28153",
     "latitude": "55.51015",
-    "longitude": "25.5852",
+    "longitude": "25.58520",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie prekybos centro sienos."
   },
@@ -2898,7 +2898,7 @@
     "city": "Utena",
     "address": "J.Basanavičiaus g.12",
     "postalCode": "28140",
-    "latitude": "55.496",
+    "latitude": "55.4960",
     "longitude": "25.583671",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra prie Husqvarna parduotuvės"
@@ -2913,7 +2913,7 @@
     "latitude": "55.287512",
     "longitude": "23.97441",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 1202,
@@ -2947,7 +2947,7 @@
     "address": "P. Lukšio g. 1A",
     "postalCode": "57198",
     "latitude": "55.29101",
-    "longitude": "23.9845",
+    "longitude": "23.98450",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie įėjimo į prekybos centrą."
   },
@@ -3009,7 +3009,7 @@
     "latitude": "54.649591",
     "longitude": "23.036479",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie Maxima parduotuvės."
   },
   {
     "id": 1402,
@@ -3019,9 +3019,9 @@
     "address": "Vištyčio g. 40",
     "postalCode": "70428",
     "latitude": "54.631154",
-    "longitude": "22.75541",
+    "longitude": "22.755410",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 1403,
@@ -3057,7 +3057,7 @@
     "latitude": "55.594613",
     "longitude": "26.451886",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, dešinėje prekybos centro pusėje."
   },
   {
     "id": 1502,
@@ -3069,7 +3069,7 @@
     "latitude": "55.131661",
     "longitude": "26.155626",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie pašto įėjimo."
   },
   {
     "id": 1503,
@@ -3081,7 +3081,7 @@
     "latitude": "54.702425",
     "longitude": "25.520959",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie pastato šoninės sienos."
   },
   {
     "id": 1504,
@@ -3093,7 +3093,7 @@
     "latitude": "55.169467",
     "longitude": "26.003813",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro įėjimo."
   },
   {
     "id": 1505,
@@ -3105,7 +3105,7 @@
     "latitude": "55.598944",
     "longitude": "26.434635",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 1506,
@@ -3126,7 +3126,7 @@
     "city": "Švenčionys",
     "address": "Vilniaus g. 8",
     "postalCode": "18123",
-    "latitude": "55.13351",
+    "latitude": "55.133510",
     "longitude": "26.158304",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra prie parduotuvės Lakaja įėjimo."
@@ -3165,7 +3165,7 @@
     "latitude": "55.242714",
     "longitude": "24.744526",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, dešinėje parduotuvės pusėje, matomas iš Kauno g. pusės."
   },
   {
     "id": 1602,
@@ -3177,7 +3177,7 @@
     "latitude": "55.259474",
     "longitude": "24.791811",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos. Matomas iš autobusų stoties pusės."
   },
   {
     "id": 1603,
@@ -3189,7 +3189,7 @@
     "latitude": "55.244116",
     "longitude": "24.773193",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prie prekybos centro šoninės sienos. Matomas iš Antakalnio g. pusės."
   },
   {
     "id": 1604,
@@ -3213,7 +3213,7 @@
     "latitude": "55.904136",
     "longitude": "21.832345",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 1702,
@@ -3225,7 +3225,7 @@
     "latitude": "55.909374",
     "longitude": "21.856726",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 1703,
@@ -3237,7 +3237,7 @@
     "latitude": "55.724639",
     "longitude": "21.930742",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, matomas iš Plungės g. pusės"
   },
   {
     "id": 1704,
@@ -3249,7 +3249,7 @@
     "latitude": "55.902106",
     "longitude": "21.827144",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas nuo prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 1705,
@@ -3285,7 +3285,7 @@
     "latitude": "55.893905",
     "longitude": "21.261978",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, dešinėje parduotuvės įėjimo pusėje."
   },
   {
     "id": 1802,
@@ -3297,7 +3297,7 @@
     "latitude": "56.270158",
     "longitude": "21.529217",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie pašto pastato galinės sienos."
   },
   {
     "id": 1804,
@@ -3350,14 +3350,14 @@
   {
     "id": 1902,
     "countryCode": "LT",
-    "name": "Gausa PC",
-    "city": " Baisogala",
+    "name": "Gausa, PC ",
+    "city": "Baisogala",
     "address": "Maironio g. 44",
     "postalCode": "82320",
-    "latitude": 55.63881,
+    "latitude": "55.638810",
     "longitude": "23.723466",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": ""
+    "comment": "Paštomatas stovi lauke. Matomas iš Maironio g. pusės"
   },
   {
     "id": 1903,
@@ -3366,7 +3366,7 @@
     "city": "Šeduva",
     "address": "Panevėžio g. 33",
     "postalCode": "82224",
-    "latitude": "55.75642",
+    "latitude": "55.756420",
     "longitude": "23.762576",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra lauke prie prekybos centro šoninės sienos."
@@ -3417,7 +3417,7 @@
     "latitude": "55.343747",
     "longitude": "21.484101",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 2003,
@@ -3453,7 +3453,7 @@
     "latitude": "54.784907",
     "longitude": "24.658285",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro, matomas iš Rungos gatvės."
   },
   {
     "id": 2102,
@@ -3465,7 +3465,7 @@
     "latitude": "54.788737",
     "longitude": "24.674972",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas nuo prekybos centro automobilių stovėjimo aikštelės."
   },
   {
     "id": 2103,
@@ -3501,7 +3501,7 @@
     "latitude": "54.786224",
     "longitude": "24.67144",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke "
+    "comment": "Paštomatas stovi lauke, matomas iš Trakų ir Drausystės g. pusių."
   },
   {
     "id": 2106,
@@ -3525,7 +3525,7 @@
     "latitude": "55.915588",
     "longitude": "21.070398",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, kairėje įėjimo į prekybos centrą pusėje."
   },
   {
     "id": 2202,
@@ -3561,7 +3561,7 @@
     "latitude": "55.953287",
     "longitude": "25.591831",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas nuo Perkūno ir Respublikos gatvės."
   },
   {
     "id": 2302,
@@ -3573,7 +3573,7 @@
     "latitude": "55.946219",
     "longitude": "25.585032",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prie prekybos centro šoninės sienos. Matosi nuo Panevežio g. pusės"
   },
   {
     "id": 2401,
@@ -3582,8 +3582,8 @@
     "city": "Naujoji Akmenė",
     "address": "V. Kudirkos g. 18",
     "postalCode": "85171",
-    "latitude": "56.31731",
-    "longitude": "22.885101",
+    "latitude": "56.31768",
+    "longitude": "22.88429",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas yra lauke prie parduotuvės."
   },
@@ -3597,7 +3597,7 @@
     "latitude": "56.245313",
     "longitude": "22.749378",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie pašto pagrindinio įėjimo."
   },
   {
     "id": 2403,
@@ -3614,26 +3614,26 @@
   {
     "id": 2501,
     "countryCode": "LT",
-    "name": "Aidas PC",
+    "name": "Aidas, PC ",
     "city": "Druskininkai",
     "address": "M. K. Čiurlionio g. 50",
     "postalCode": "66142",
-    "latitude": 54.015626,
+    "latitude": "54.015626",
     "longitude": "23.978366",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": ""
+    "comment": "Paštomatas yra lauke, prie gretimo PC Aidas pastato, matomas iš M. K. Čiurlionio gatvės."
   },
   {
     "id": 2502,
     "countryCode": "LT",
-    "name": "Malonė PC",
+    "name": "Malonė, PC ",
     "city": "Druskininkai",
     "address": "M.K Čiurlionio g. 107",
     "postalCode": "66161",
-    "latitude": 54.011442,
+    "latitude": "54.011442",
     "longitude": "23.990306",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": ""
+    "comment": "Paštomatas yra lauke, matomas iš P.Cvirkos g. pusės"
   },
   {
     "id": 2503,
@@ -3669,7 +3669,7 @@
     "latitude": "55.26841",
     "longitude": "23.47055",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke. Matomas iš Taurupio g."
+    "comment": "Paštomatas stovi lauke. Matomas iš Taurupio g. Žemaičių g.ir Laukų g. pusių."
   },
   {
     "id": 2603,
@@ -3693,7 +3693,7 @@
     "latitude": "56.20048",
     "longitude": "24.738303",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, kairėje parduotuvės pusėje, prie pagrindinio įėjimo."
   },
   {
     "id": 2702,
@@ -3705,7 +3705,7 @@
     "latitude": "56.201256",
     "longitude": "24.756911",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie parduotuvės šoninės sienos"
   },
   {
     "id": 2801,
@@ -3717,7 +3717,7 @@
     "latitude": "55.085645",
     "longitude": "22.769744",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 2802,
@@ -3753,7 +3753,7 @@
     "latitude": "55.631886",
     "longitude": "22.928743",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,prie prekybos centro šoninės sienos."
   },
   {
     "id": 2902,
@@ -3777,7 +3777,7 @@
     "latitude": "55.596836062",
     "longitude": "23.197084179",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke. Prie parduotuvės šoninės sienos"
+    "comment": "Paštomatas stovi lauke. Prie parduotuvės šoninės sienos, matomas iš Kelmės g. pusės."
   },
   {
     "id": 3001,
@@ -3789,7 +3789,7 @@
     "latitude": "55.524932",
     "longitude": "25.118651",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie įėjimo."
   },
   {
     "id": 3002,
@@ -3825,7 +3825,7 @@
     "latitude": "56.239922",
     "longitude": "23.619393",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 3102,
@@ -3849,7 +3849,7 @@
     "latitude": "56.359586",
     "longitude": "23.255625",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš Miesto a. pusės."
   },
   {
     "id": 3201,
@@ -3861,7 +3861,7 @@
     "latitude": "54.645911",
     "longitude": "23.948606",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie parduotuvės."
   },
   {
     "id": 3202,
@@ -3883,7 +3883,7 @@
     "address": "J.Basanavičiaus g. 15",
     "postalCode": "59151",
     "latitude": "54.63802",
-    "longitude": "23.9452",
+    "longitude": "23.94520",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie pastato sienos."
   },
@@ -3897,7 +3897,7 @@
     "latitude": "54.954394",
     "longitude": "23.039596",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, kairėje parduotuvės pusėje."
   },
   {
     "id": 3302,
@@ -3907,7 +3907,7 @@
     "address": "Šaulių g. 49",
     "postalCode": "71117",
     "latitude": "54.96054",
-    "longitude": "23.0315",
+    "longitude": "23.03150",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke. Matomas iš Šaulių g. pusės"
   },
@@ -3921,7 +3921,7 @@
     "latitude": "54.210461",
     "longitude": "24.577097",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Savanorių g."
   },
   {
     "id": 3402,
@@ -3933,7 +3933,7 @@
     "latitude": "54.211633",
     "longitude": "24.569602",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos. Matomas iš Vytauto g. pusės"
   },
   {
     "id": 3501,
@@ -3945,7 +3945,7 @@
     "latitude": "56.056966",
     "longitude": "24.406857",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 3601,
@@ -3957,7 +3957,7 @@
     "latitude": "55.729382",
     "longitude": "26.244192",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 3701,
@@ -3969,7 +3969,7 @@
     "latitude": "55.977647",
     "longitude": "23.845942",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke prie Lietuvos pašto pastato šoninės sienos"
+    "comment": "Paštomatas yra lauke prie Lietuvos pašto pastato šoninės sienos, matomas iš Pieninės g. pusės"
   },
   {
     "id": 3702,
@@ -3993,7 +3993,7 @@
     "latitude": "55.343368",
     "longitude": "26.170785",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro."
   },
   {
     "id": 3802,
@@ -4005,7 +4005,7 @@
     "latitude": "55.342508",
     "longitude": "26.164516",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke "
+    "comment": "Paštomatas stovi lauke, matomas iš Ateities g. pusės"
   },
   {
     "id": 3901,
@@ -4017,7 +4017,7 @@
     "latitude": "54.233826",
     "longitude": "23.516353",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, kairėje įėjimo pusėje."
   },
   {
     "id": 3902,
@@ -4029,7 +4029,7 @@
     "latitude": "54.23138",
     "longitude": "23.51641",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, matomas iš Dzūkų g. pusės"
   },
   {
     "id": 3903,
@@ -4053,7 +4053,7 @@
     "latitude": "55.490798",
     "longitude": "22.179388",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,prie prekybos centro šoninės sienos. Matomas iš Lokystos g. pusės."
   },
   {
     "id": 4002,
@@ -4074,7 +4074,7 @@
     "city": "Kaltinėnai",
     "address": "Varnių g.5",
     "postalCode": "75451",
-    "latitude": "55.56463079",
+    "latitude": "55.564630790",
     "longitude": "22.455325922",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas į prie įėjimo į parduotuvę."
@@ -4086,10 +4086,10 @@
     "city": "Molėtai",
     "address": "Vilniaus g. 43",
     "postalCode": "33102",
-    "latitude": "55.23209",
+    "latitude": "55.232090",
     "longitude": "25.419384",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke prie Lietuvos pašto pastato šoninės sienos"
+    "comment": "Paštomatas yra lauke prie Lietuvos pašto pastato šoninės sienos, matomas iš Vilniaus g.pusės"
   },
   {
     "id": 4201,
@@ -4101,7 +4101,7 @@
     "latitude": "54.857444",
     "longitude": "24.444778",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, kairėje prekybos centro įėjimo pusėje matomas iš Gedimino g."
   },
   {
     "id": 4202,
@@ -4125,7 +4125,7 @@
     "latitude": "54.872499",
     "longitude": "24.214641",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 4204,
@@ -4154,14 +4154,14 @@
   {
     "id": 4302,
     "countryCode": "LT",
-    "name": "Baltasis Kampas PC",
+    "name": "Baltasis Kampas, PC ",
     "city": "Babtai",
     "address": "Kauno g. 2C",
-    "postalCode": 54331,
-    "latitude": 55.087172,
+    "postalCode": "54331",
+    "latitude": "55.087172",
     "longitude": "23.796079",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": ""
+    "comment": "Paštomatas yra lauke, prie parduotuvės šoninės sienos."
   },
   {
     "id": 4501,
@@ -4173,7 +4173,7 @@
     "latitude": "55.712477",
     "longitude": "21.380554",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos."
   },
   {
     "id": 4502,
@@ -4204,12 +4204,12 @@
     "countryCode": "LT",
     "name": "Aibė",
     "city": "Vėžaičiai",
-    "address": "Gargždų g.29",
-    "postalCode": " Vėžaičiai",
-    "latitude": "96216",
-    "longitude": "55.7181",
+    "address": "Gargždų g.29, Vėžaičiai",
+    "postalCode": "96216",
+    "latitude": "55.7181",
+    "longitude": "21.4754",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:02.023"
+    "comment": "Paštomatas yra prie įėjimo į Aibės parduotuvę"
   },
   {
     "id": 4701,
@@ -4221,7 +4221,7 @@
     "latitude": "56.001825",
     "longitude": "22.938466",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prekybos centro kairėje pusėje."
   },
   {
     "id": 4702,
@@ -4245,7 +4245,7 @@
     "latitude": "55.844339",
     "longitude": "24.979961",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke,prie prekybos centro šoninės sienos, matomas iš Pergalės g. pusės."
   },
   {
     "id": 4802,
@@ -4257,7 +4257,7 @@
     "latitude": "55.839664",
     "longitude": "24.985843",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš Vytauto g. pusės."
   },
   {
     "id": 4901,
@@ -4269,7 +4269,7 @@
     "latitude": "54.781455",
     "longitude": "25.273956",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra prekybos centro viduje"
+    "comment": "Paštomatas yra prekybos centro viduje, netoli pašto skyriaus."
   },
   {
     "id": 4902,
@@ -4293,7 +4293,7 @@
     "latitude": "54.822568",
     "longitude": "23.872817",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš K. Donelaičio g. pusės"
   },
   {
     "id": 5002,
@@ -4317,7 +4317,7 @@
     "latitude": "54.832069",
     "longitude": "23.876259",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš S. Lozoraičio g. pusės"
   },
   {
     "id": 5101,
@@ -4329,7 +4329,7 @@
     "latitude": "54.669716",
     "longitude": "25.098743",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Kovo 11-osios g."
   },
   {
     "id": 5102,
@@ -4365,7 +4365,7 @@
     "latitude": "54.63342",
     "longitude": "24.93506",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prie  taromato sienos."
   },
   {
     "id": 5105,
@@ -4377,7 +4377,7 @@
     "latitude": "54.577624",
     "longitude": "25.200801",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, prie įėjimo į prekybos centrą."
   },
   {
     "id": 5106,
@@ -4413,7 +4413,7 @@
     "latitude": "54.637882",
     "longitude": "25.356448",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, šalia Nemėžio centrinio pašto"
   },
   {
     "id": 5202,
@@ -4470,7 +4470,7 @@
     "city": "Skaidiškės",
     "address": "Rudaminos g. 29",
     "postalCode": "13275",
-    "latitude": "54.6066",
+    "latitude": "54.60660",
     "longitude": "25.38295",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie prekybos centro šoninės sienos."
@@ -4483,9 +4483,9 @@
     "address": "Vilniaus g. 18A",
     "postalCode": "99292",
     "latitude": "55.135278",
-    "longitude": "21.90706",
+    "longitude": "21.907060",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke "
+    "comment": "Paštomatas yra lauke, prie prekybos centro šoninės sienos"
   },
   {
     "id": 6101,
@@ -4524,16 +4524,28 @@
     "comment": "Paštomatas yra lauke prie prekybos centro pastato pagrindinio įėjimo."
   },
   {
+    "id": 7002,
+    "countryCode": "LT",
+    "name": "Simbiocity Beta (tik siuntų atsiėmimui)",
+    "city": "Vilnius",
+    "address": "J. Balčikonio g. 3",
+    "postalCode": "03500",
+    "latitude": "54.719959",
+    "longitude": "25.28510",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "."
+  },
+  {
     "id": 7501,
     "countryCode": "LT",
     "name": "Lvivo g. (Udrop)",
     "city": "Vilnius",
     "address": "Lvivo g. 37",
-    "postalCode": "",
-    "latitude": "9307",
-    "longitude": "54.69740371",
+    "postalCode": "9307",
+    "latitude": "54.69740371",
+    "longitude": "25.27695915",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:02.119"
+    "comment": "Paštomatas matomas iš Krokuvos g. pusės."
   },
   {
     "id": 7502,
@@ -4641,7 +4653,7 @@
     "latitude": "54.71625981",
     "longitude": "25.27744304",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi už pastato"
+    "comment": "Paštomatas stovi už pastato, Unipark stovėjimo aikštelėje. Matosi iš J. Ralio g. pusės."
   },
   {
     "id": 7511,
@@ -4665,7 +4677,7 @@
     "latitude": "56.30536983",
     "longitude": "22.35214953",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi kairėje įėjimo į pastatą pusėje"
+    "comment": "Paštomatas stovi kairėje įėjimo į pastatą pusėje, už kampo."
   },
   {
     "id": 7513,
@@ -4701,7 +4713,7 @@
     "latitude": "55.24118195",
     "longitude": "24.74304575",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi kairėje įėjimo į pastatą pusėje"
+    "comment": "Paštomatas stovi kairėje įėjimo į pastatą pusėje, už kampo."
   },
   {
     "id": 7516,
@@ -4713,7 +4725,7 @@
     "latitude": "54.70175405",
     "longitude": "25.21208414",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi įvažiavimo/išvažiavimo į požeminį parkavimą"
+    "comment": "Paštomatas stovi įvažiavimo\/išvažiavimo į požeminį parkavimą, dešinėje pusėje."
   },
   {
     "id": 7517,
@@ -4749,7 +4761,7 @@
     "latitude": "54.87033633",
     "longitude": "23.93892887",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į parduotuvę pusėje, už kampo."
   },
   {
     "id": 7520,
@@ -4780,12 +4792,12 @@
     "countryCode": "LT",
     "name": "Šilas (Udrop)",
     "city": "Kaunas",
-    "address": "Mildos g. 5",
-    "postalCode": " Domeikavos k.",
-    "latitude": "54358",
-    "longitude": "54.96170071",
+    "address": "Mildos g. 5, Domeikavos k.",
+    "postalCode": "54358",
+    "latitude": "54.96170071",
+    "longitude": "23.90790452",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "2025-01-03 16:30:02.188"
+    "comment": "Paštomatas stovi kairėje įėjimo į parduotuvę pusėje."
   },
   {
     "id": 7523,
@@ -4821,7 +4833,7 @@
     "latitude": "55.93233285",
     "longitude": "23.30478601",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi parkavimo aikštelėje"
+    "comment": "Paštomatas stovi parkavimo aikštelėje, dešinėje įėjimo į KUBAS parduotuvę pusėje."
   },
   {
     "id": 7526,
@@ -4869,7 +4881,7 @@
     "latitude": "54.56039686",
     "longitude": "23.36105515",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į RASA parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į RASA parduotuvę pusėje, už kampo."
   },
   {
     "id": 7530,
@@ -4893,7 +4905,7 @@
     "latitude": "54.678324118",
     "longitude": "25.213012522",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi kairėje įėjimo į AIBĖ parduotuvę pusėje"
+    "comment": "Paštomatas stovi kairėje įėjimo į AIBĖ parduotuvę pusėje, už kampo."
   },
   {
     "id": 7532,
@@ -4917,7 +4929,7 @@
     "latitude": "55.35907",
     "longitude": "21.70119",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje, už kampo."
   },
   {
     "id": 7534,
@@ -4929,7 +4941,7 @@
     "latitude": "54.72239189",
     "longitude": "25.27110037",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į SKULAS degalinę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į SKULAS degalinę pusėje, už kampo."
   },
   {
     "id": 7535,
@@ -4941,7 +4953,7 @@
     "latitude": "54.93616529",
     "longitude": "23.89569753",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į Jozita degalinę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į Jozita degalinę pusėje, už kampo."
   },
   {
     "id": 7536,
@@ -4953,7 +4965,7 @@
     "latitude": "55.6729627",
     "longitude": "21.20099227",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje, už kampo."
   },
   {
     "id": 7537,
@@ -4977,7 +4989,7 @@
     "latitude": "54.75179426",
     "longitude": "25.28210363",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje pusėje"
+    "comment": "Paštomatas stovi dešinėje pusėje, prie išvažiavimo iš Unipark daugiaaukštės aikštelės"
   },
   {
     "id": 7539,
@@ -5013,7 +5025,7 @@
     "latitude": "54.686979",
     "longitude": "25.281569",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatą rasite viduje"
+    "comment": "Paštomatą rasite viduje, įėjus pro pagrindinį įėjimą ir nusileidę į -2 aukštą."
   },
   {
     "id": 7542,
@@ -5025,7 +5037,7 @@
     "latitude": "54.74025",
     "longitude": "25.225274",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, matomas iš Ukmergės g."
   },
   {
     "id": 7543,
@@ -5094,10 +5106,10 @@
     "city": "Kaunas",
     "address": "Lubinų g. 155",
     "postalCode": "47222",
-    "latitude": "54.94542",
+    "latitude": "54.945420",
     "longitude": "23.828236",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas yra lauke"
+    "comment": "Paštomatas yra lauke, prie prekybos centro Šilas"
   },
   {
     "id": 7549,
@@ -5118,10 +5130,10 @@
     "city": "Šiauliai",
     "address": "Aido g. 12",
     "postalCode": "78322",
-    "latitude": "55.91068896",
+    "latitude": "55.910688960",
     "longitude": "23.265662378",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi kairėje įėjimo į KUBAS parduotuvę pusėje"
+    "comment": "Paštomatas stovi kairėje įėjimo į KUBAS parduotuvę pusėje, už kampo."
   },
   {
     "id": 7551,
@@ -5133,7 +5145,7 @@
     "latitude": "55.926339973",
     "longitude": "23.318311167",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į KUBAS parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į KUBAS parduotuvę pusėje, už kampo."
   },
   {
     "id": 7552,
@@ -5145,7 +5157,7 @@
     "latitude": "54.563480899",
     "longitude": "23.342437213",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į Aibė parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į Aibė parduotuvę pusėje, už kampo."
   },
   {
     "id": 7553,
@@ -5157,7 +5169,7 @@
     "latitude": "55.671911054",
     "longitude": "21.172409511",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje, už kampo."
   },
   {
     "id": 7554,
@@ -5169,19 +5181,19 @@
     "latitude": "54.832069",
     "longitude": "23.876259",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš S. Lozoraičio g. pusės"
   },
   {
     "id": 7555,
     "countryCode": "LT",
-    "name": "Butkų Juzės (Udrop)",
-    "city": "Klaipėda",
-    "address": "Butkų Juzės g. 11",
-    "postalCode": "92228",
-    "latitude": "55.71891736",
-    "longitude": "21.140376401",
+    "name": "Norfa (Udrop)",
+    "city": "Naujoji Akmenė",
+    "address": "Respublikos g. 30A",
+    "postalCode": "85138",
+    "latitude": "56.31958",
+    "longitude": "22.87331",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi prie pastato"
+    "comment": "Paštomatas stovi prie pastato, tarp bekontaktės plovyklos ir įėjimo į parduotuvę."
   },
   {
     "id": 7556,
@@ -5193,7 +5205,7 @@
     "latitude": "54.778781",
     "longitude": "25.341272",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi IKI parkavimo aikštelėje"
+    "comment": "Paštomatas stovi IKI parkavimo aikštelėje, įvažiavus per Žaliųjų ežerų g. įvažiavimą, kairėje pusėje"
   },
   {
     "id": 7557,
@@ -5205,7 +5217,7 @@
     "latitude": "54.925224603",
     "longitude": "23.990008945",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi dešinėje įėjimo į ŠILAS parduotuvę pusėje"
+    "comment": "Paštomatas stovi dešinėje įėjimo į ŠILAS parduotuvę pusėje, už kampo."
   },
   {
     "id": 7558,
@@ -5229,7 +5241,7 @@
     "latitude": "54.92054",
     "longitude": "23.87958",
     "updated": "2025-01-03 16:30:01.98",
-    "comment": "Paštomatas stovi lauke"
+    "comment": "Paštomatas stovi lauke, matomas iš Baltijos g. pusės"
   },
   {
     "id": 7560,
@@ -5242,5 +5254,113 @@
     "longitude": "23.966604",
     "updated": "2025-01-03 16:30:01.98",
     "comment": "Paštomatas stovi lauke prie prekybos centro šoninės sienos. Matomas iš V.Krėvės pr. pusės."
+  },
+  {
+    "id": 7561,
+    "countryCode": "LT",
+    "name": "Express Market (Udrop)",
+    "city": "Vilnius",
+    "address": "Dzūkų g. 38a",
+    "postalCode": "02116",
+    "latitude": "54.664413867",
+    "longitude": "25.28663069",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "."
+  },
+  {
+    "id": 7562,
+    "countryCode": "LT",
+    "name": "Express Market (Udrop)",
+    "city": "Klaipėda",
+    "address": "Kretingos g. 9",
+    "postalCode": "92218",
+    "latitude": "55.72418993",
+    "longitude": "21.130728201",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "Paštomatas stovi kairėje įėjimo į K-1 akademiją pusėje."
+  },
+  {
+    "id": 7563,
+    "countryCode": "LT",
+    "name": "Norfa (Udrop)",
+    "city": "Klaipėda",
+    "address": "Baltijos pr. 101",
+    "postalCode": "94116",
+    "latitude": "55.686628",
+    "longitude": "21.161434",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "Paštomatas stovi dešinėje įėjimo į NORFA parduotuvę pusėje."
+  },
+  {
+    "id": 7564,
+    "countryCode": "LT",
+    "name": "PC Vyturiai (Udrop)",
+    "city": "Utena",
+    "address": "J. Basanavičiaus g. 93B",
+    "postalCode": "28228",
+    "latitude": "55.500465",
+    "longitude": "25.613969",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "Paštomatas stovi kairėje įėjimo į AIBĖ parduotuvę pusėje."
+  },
+  {
+    "id": 7565,
+    "countryCode": "LT",
+    "name": "Aibė (Udrop)",
+    "city": "Pasvalys",
+    "address": "Taikos g. 20",
+    "postalCode": "39184",
+    "latitude": "56.061003",
+    "longitude": "24.411839",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "Paštomatas stovi dešinėje įėjimo į AIBĖ parduotuvę pusėje."
+  },
+  {
+    "id": 7566,
+    "countryCode": "LT",
+    "name": "IKI (Udrop)",
+    "city": "Rokiškis",
+    "address": "Jaunystės g. 1",
+    "postalCode": "42149",
+    "latitude": "55.949813",
+    "longitude": "25.588826",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "Paštomatas matomas iš Jaunystės g. pusės."
+  },
+  {
+    "id": 7567,
+    "countryCode": "LT",
+    "name": "Viada (Udrop)",
+    "city": "Kaunas",
+    "address": "Karaliaus Mindaugo pr. 54",
+    "postalCode": "44351",
+    "latitude": "54.886829",
+    "longitude": "23.921960",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "."
+  },
+  {
+    "id": 7568,
+    "countryCode": "LT",
+    "name": "Šilas (Udrop)",
+    "city": "Užliedžiai",
+    "address": "Griežlės g. 40",
+    "postalCode": "54303",
+    "latitude": "54.965341",
+    "longitude": "23.823212",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": "."
+  },
+  {
+    "id": 7569,
+    "countryCode": "LT",
+    "name": "Šilas (Udrop)",
+    "city": "Bajorai",
+    "address": "Šaulio g. 70",
+    "postalCode": "14189",
+    "latitude": "54.757796",
+    "longitude": "25.224225",
+    "updated": "2025-01-03 16:30:01.98",
+    "comment": ""
   }
 ]
